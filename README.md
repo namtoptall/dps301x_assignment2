@@ -14,5 +14,5 @@ git clone https://github.com/namtoptall/dps301x_assignment2.git
     venv\Script\activate
     python \answer\lastname_firstname_grade_the_exam.py
 ```
-
+#### link for github repo : https://github.com/namtoptall/dps301x_assignment2
 ### -> The answer are placed in class_grades folder with corresponding total grades of each student for each class.
